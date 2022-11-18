@@ -27,21 +27,18 @@ export default {
 #nav{
     display:flex;
     justify-content: center;
-    background-color:rgb(76, 175, 80);
+    background-color:#fff;
     padding:10px;
 }
 #nav a{
     font-weight: bold;
-    color: white;
+    color: #2c3e50;
     text-decoration: none;
     padding: 10px;
     font-size: 1.5em;
     
 }
 #nav a.router-link-exact-active {
-    color: black;
-}
-body{
-  background: red;
+    color: #41b883;
 }
 </style>
