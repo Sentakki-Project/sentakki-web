@@ -10,15 +10,6 @@
 
 <script>
 export default {
-    data(){
-        return{
-            items:[
-                {title:'About Project',icon:'mdi-help-box'},
-                {title:'Team',icon:'mdi-account-group'},
-            ],
-            right:null,
-        }
-    }
 }
 </script>
 
