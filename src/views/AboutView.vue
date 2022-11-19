@@ -24,11 +24,20 @@ export default {
 </script>
 
 <style scoped>
+.content{
+    height:700px;
+    padding:20px;
+    margin:20px 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
 .card{
     border-radius:40px;
     background-color: white;
     width:300px;
     height:200px;
+    margin:20px;
 } 
 .name{
     color: #41b883;
