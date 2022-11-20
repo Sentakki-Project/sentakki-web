@@ -28,7 +28,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 svg{
     vertical-align: middle;
     margin-right: 4px;
@@ -57,7 +57,6 @@ svg{
     flex-wrap:wrap;
 }
 .card{
-    
     border-radius:20px;
     background-color:white;
     height: 450px;

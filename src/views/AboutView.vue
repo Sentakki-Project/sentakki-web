@@ -44,6 +44,7 @@ export default {
     padding:10px;
     font-size:21px;
     font-weight: 700;
+    margin-top:1.5rem;
 }
 .date{
     
