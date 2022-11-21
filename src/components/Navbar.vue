@@ -3,6 +3,7 @@
         <div class="link">
             <router-link :to="{name:'home'}" class="navbar-button">Home</router-link> 
             <router-link :to="{name:'about'}" class="navbar-button">About</router-link>
+            <router-link :to="{name:'technology'}" class="navbar-button">Stack</router-link>
             <router-link :to="{name:'team'}" class="navbar-button">Team</router-link>
         </div>
     </div>

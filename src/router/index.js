@@ -15,6 +15,11 @@ const routes = [
     path:'/team',
     name:'team',
     component:()=>import('../views/TeamView.vue')
+  },
+  {
+    path:'/technology',
+    name:'technology',
+    component:()=>import('../views/TechnologyView.vue')
   }
 ]
 
