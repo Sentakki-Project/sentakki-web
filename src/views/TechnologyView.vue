@@ -2,13 +2,9 @@
     <h1>Backend</h1>  
     <div class="conteiner">
         <div class="element">
-            <img :src="require(`@/assets/${asp}`)" alt="asp-net-logo">
-            <p>ASP.net</p>
-        </div>
-        <div class="element">
-            <img :src="require(`@/assets/${jwt}`)" alt="jwt-logo">
-            <p>JSON Web Token</p>
-        </div>             
+            <img :src="require(`@/assets/${ror}`)" alt="asp-net-logo">
+            <p>Ruby on Rails</p>
+        </div>         
     </div>
     <h1>Database</h1>  
     <div class="conteiner">
@@ -20,6 +16,7 @@
     <div class="conteiner">
         <div class="element">
             <img :src="require(`@/assets/${react}`)" alt="react-native-logo">
+            <p>React Native</p>
         </div>
     </div>
     <h1>Web</h1>  
@@ -48,8 +45,7 @@ export default {
         return{
             vue:"vue-logo.png",
             github:"github-logo.png",
-            asp:"asp-net-logo.png",
-            jwt:"jwt-logo.png",
+            ror:"ror-logo.png",
             postgresql:"postgresql-logo.png",
             docker:"docker-logo.png",
             react:"react-native-logo.png"

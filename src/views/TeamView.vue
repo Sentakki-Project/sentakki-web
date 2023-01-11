@@ -18,9 +18,9 @@ export default {
     data(){
         return{
             people:[
-                {fname:"Agnieszka",lname:"Piszcz",icon:"photo.png",job:"Project Manager",github:"AgnieszkaPiszcz"},
-                {fname:"Mikołaj",lname:"Czurłowski",icon:"photo.png",job:"Fullstack Developer",github:"mikolajczu"},
-                {fname:"Mateusz",lname:"Różański",icon:"photo.png",job:"Backend Developer",github:"matthewrosse"},
+                {fname:"Agnieszka",lname:"Piszcz",icon:"photo.png",job:"UI Designer",github:"AgnieszkaPiszcz"},
+                {fname:"Mikołaj",lname:"Czurłowski",icon:"photo.png",job:"Backend Developer",github:"mikolajczu"},
+                {fname:"Mateusz",lname:"Różański",icon:"photo.png",job:"Fullstack Developer",github:"matthewrosse"},
                 {fname:"Damian",lname:"Maza",icon:"photo.png",job:"Frontend Developer",github:"x4trm"},
             ]
         }
